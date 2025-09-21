@@ -36,7 +36,7 @@ A modern and elegant **landing page UI/UX design** for a premium cake shop (base
 
 ## 📸 Preview
 
-**Figma Link : ** https://www.figma.com/design/H047rnyCYfW38w9Zp93tcv/Cake-World?node-id=0-1&t=8Lk3LKKTCN67Ujml-1
+* **Figma Link :**  https://www.figma.com/design/H047rnyCYfW38w9Zp93tcv/Cake-World?node-id=0-1&t=8Lk3LKKTCN67Ujml-1
 
 💡 This project helped me strengthen my skills in **UI/UX design, branding, and prototyping**, while delivering a clean, luxury-themed web experience.
 
@@ -44,4 +44,4 @@ A modern and elegant **landing page UI/UX design** for a premium cake shop (base
 
 ### 🔗 Connect
 
-If you like this project, feel free to ⭐ the repo or connect with me on [LinkedIn](#https://www.linkedin.com/feed/update/urn:li:activity:7375417539390083072/).
+If you like this project, feel free to ⭐ the repo or connect with me on [LinkedIn]https://www.linkedin.com/feed/update/urn:li:activity:7375417539390083072/(#).
